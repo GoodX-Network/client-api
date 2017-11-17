@@ -1,7 +1,13 @@
 Official GoodX Network API
 
 You can use this API to develop your own applicaitons and tools on top of GoodX Network core.
-Feel free to leave your comments and suggestions. 
 
+To use the API, you have to get a tocken via AWS Cognito. 
+Register your account via GoodX mobile app and use your credentials with Cognito.
+More details availabe at http://docs.aws.amazon.com/cognito/latest/developerguide/cognito-reference.html
+
+
+Feel free to leave your comments and suggestions. 
+--
 Alex Nova
 alex@goodx.ch
